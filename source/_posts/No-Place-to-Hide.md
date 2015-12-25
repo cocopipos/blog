@@ -15,6 +15,6 @@ This subject was a convergence of Gleen's passion and expertise and therefore he
 
 Because his work covering this matter, Snowden thought that Glenn would be a good fit to deal with the information he was about to leak.
 
-This was not the first time that governments spied on their citizens without warrant, but because of the nature of Internet. It's now much bigger deal. Internet is part of every detail of modern life. It is where people communicate, make friends, choose movies, books, clothes, everything. A government capable of knowing habits and preferences of everybody can practically reads people's minds.
+This was not the first time that governments spied on their citizens without warrant, but because of the nature of Internet, it's now much bigger deal. Internet is part of every detail of modern life. It is where people communicate, make friends, choose movies, books, clothes, everything. A government capable of knowing habits and preferences of everybody can practically read people's minds.
 
-Internet began with the promise that it would be a territory of individual liberation and political freedom. A place where people could be whoever they like without fearing opression. Currently it is the oppose of that. We need to decide how the Internet we want looks like and fight for it. 
+Internet began with the promise that it would be a territory of individual liberation and political freedom. A place where people could be whoever they like without fearing opression. Currently it is the opposite of that. We need to decide how the Internet we want looks like and fight for it. 
