@@ -9,9 +9,9 @@ In 2005 Glenn Greenwald started a blog to discuss the radical and extremist theo
 
 A few months later, New York Times revealed that, since 2001, under orders of president George W. Bush, the National Security Agency (NSA) was spying on thousands of American Citizens without warrant.
 
-US government tried to justify its decision using the excuse that because of terrorism the president should have the ppower to do anything necessary to keep the nation safe, including breaking the law.
+US government tried to justify its decision using the excuse that because of terrorism the president should have the power to do anything necessary to keep the nation safe, including breaking the law.
 
-This subject was a convergence of Gleen's passion and expertise and therefore he used the next two years covering every aspect of NSA's warrantless wiretapping scandal.
+This subject was a convergence of Glenn's passion and expertise and therefore he used the next two years covering every aspect of NSA's warrantless wiretapping scandal.
 
 Because his work covering this matter, Snowden thought that Glenn would be a good fit to deal with the information he was about to leak.
 
