@@ -1,6 +1,6 @@
 title: No Place to Hide - Introduction
 date: 2015-12-25 11:45:15
-tags: no-place-to-hide, privacy, surveillance, book, snowden
+tags: [no-place-to-hide, privacy, surveillance, book, snowden]
 ---
 
 I've just started reading the book No Place to Hide, by Glenn Greenwald. During the reading, I'll try to post here a summary of what I think is more important in each chapter. In the introductory chapter Glenn Greenwald talks about why he was chosen by Snowden to take care of publishing his revelations and also why the subject of the revelations should be important for everybody. Here goes a summary:
